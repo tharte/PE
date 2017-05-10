@@ -1,0 +1,9 @@
+# -*- org-confirm-babel-evaluate: nil -*-
+#+title:         PE: R package for modeling private equity
+#+author:        Thomas P. Harte and Axel Buchner
+#+email:         tharte@cantab.net
+#+property:      header-args:emacs-lisp :tangle yes :exports code :results output
+#+HTML_MATHJAX:  align:"left" path:"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"
+#+HTML_HEAD:     <link rel="stylesheet" type="text/css" href="github.css" />
+#+INFOJS_OPT:    view:info toc:t
+
