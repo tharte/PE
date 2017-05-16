@@ -16,7 +16,7 @@
 #+REVEAL_POSTAMBLE: <p> Created by yjwen. </p>
 #+REVEAL_PLUGINS: (markdown notes)
 #+REVEAL_EXTRA_CSS: local.css
-#+REVEAL_ROOT: js
+#+REVEAL_ROOT: reveal.js
 
 [[http://melpa.org/#/ox-reveal][file:http://melpa.org/packages/ox-reveal-badge.svg]]
 [[http://www.gnu.org/licenses/gpl-3.0.html][http://img.shields.io/:license-gpl3-blue.svg]]
