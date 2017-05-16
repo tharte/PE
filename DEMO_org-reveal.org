@@ -9,14 +9,14 @@
 #+REVEAL_MARGIN: 0.1
 #+REVEAL_MIN_SCALE: 0.5
 #+REVEAL_MAX_SCALE: 2.5
-#+REVEAL_TRANS: cube
+#+REVEAL_TRANS: Fade
 #+REVEAL_THEME: moon
 #+REVEAL_HLEVEL: 2
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
 #+REVEAL_POSTAMBLE: <p> Created by yjwen. </p>
 #+REVEAL_PLUGINS: (markdown notes)
-#+REVEAL_EXTRA_CSS: ./local.css
-#+REVEAL_ROOT: ./reveal.js
+#+REVEAL_EXTRA_CSS: local.css
+#+REVEAL_ROOT: reveal.js
 
 [[http://melpa.org/#/ox-reveal][file:http://melpa.org/packages/ox-reveal-badge.svg]]
 [[http://www.gnu.org/licenses/gpl-3.0.html][http://img.shields.io/:license-gpl3-blue.svg]]
@@ -84,7 +84,6 @@
    #+END_SRC
 
    Follow the [[http://orgmode.org/worg/dev/org-build-system.html][online instruction]] for building and installing Org-mode.
-
 
 * Configuration
 
